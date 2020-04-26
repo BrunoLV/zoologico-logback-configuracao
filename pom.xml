@@ -7,6 +7,7 @@
     <groupId>br.com.valhala.logback.zoologico</groupId>
     <artifactId>zoologico-logback-configuracao</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <description>Configuração básica logback com arquivo de configuração</description>
 
     <dependencies>
 
